@@ -1,0 +1,18 @@
+* Multi‑Task Modeling of Phonographic Languages: 
+https://huggingface.co/datasets/phiwi/bbaw_egyptian
+
+* Deep Learning Meets Egyptology: a Hieroglyphic Transformer: 
+https://huggingface.co/datasets/thesaurus-linguae-aegyptiae/tla-Earlier_Egyptian_original-v18-premium
+
+* HieroLM: Egyptian Hieroglyph Recover : 
+"https://github.com/simondschweitzer/aes", 
+"https://zenodo.org/records/4954597#:~:text=An%20experiment%20in%20deep%20learning,automated%20translitteration%20of%20Late%20Egyptian"
+
+* AI‑Based Automatic Translator for Ancient Hieroglyphic Language: 
+"https://github.com/fayrose/EgyptianTranslation"
+
+* Franken & van Gemert dataset used by Moustafa et al., 2022 (Scriba) and others: 
+"https://www.kaggle.com/datasets/ahmedsamir1598/glyphdataset"
+
+* HieroGlyphTranslator: Automatic Recognition and Translation of Egyptian Hieroglyphs to English
+"https://github.com/mariamsk10/HieroGlyphTranslator/tree/main"
