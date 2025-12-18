@@ -8,6 +8,8 @@ matplotlib==3.10.5
 langchain_openai==1.1.1
 IPython==9.5.0
 datasets==4.4.1
+transformers==4.57.3
+accelerate
 
 --extra-index-url https://download.pytorch.org/whl/cu121
 torch==2.9.1
