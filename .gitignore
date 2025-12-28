@@ -4,3 +4,7 @@ Cleaned_Data/
 .env
 .venv/
 assigment3/
+models/
+tokenizer/
+best_model/
+best_weights/
